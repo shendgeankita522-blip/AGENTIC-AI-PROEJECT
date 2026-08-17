@@ -1,0 +1,12 @@
+phidata
+yfinance
+duckduckgo-search
+google-genai
+python-dotenv
+
+
+phidata
+yfinance
+ddgs
+google-genai
+python-dotenv
