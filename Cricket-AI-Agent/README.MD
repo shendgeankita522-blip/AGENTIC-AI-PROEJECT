@@ -9,7 +9,7 @@ An AI-powered Cricket Agent built with Python and Generative AI. The agent can u
 * 🔎 Web search for information
 * ⚡ Real-time information retrieval
 * 🌐 Streamlit-based interface
-* 🔐 API keys managed using environment v
+* 🔐 API keys managed using environment variables
 
 ## 🛠️ Technologies Used
 
